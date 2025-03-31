@@ -4,7 +4,7 @@
 ## About the Project
 
 SA Inventory is a comprehensive inventory management system designed for South African businesses. It includes modules for products, sales, suppliers, reporting, and more.
-
+Link: https://case-study-iota.vercel.app/
 ## Features
 
 - Dashboard with key metrics and performance indicators
